@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ST820.PcbDoc   2019/2/14  17:15:21
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ST820-Plated.TXT
+EIA File   : ST820.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          40               80.76 mm (3.18 Inch)
+T2        0.5mm (19.685mil)        Round          13               11.73 mm (0.46 Inch)
+T3        1mm (39.37mil)           Round          16               73.56 mm (2.90 Inch)
+---------------------------------------------------------------------------
+Totals                                            69               166.05 mm (6.54 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

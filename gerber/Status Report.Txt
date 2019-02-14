@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ST820.PrjPcb]
+   Generated File[ST820-Plated.TXT]
+   Generated File[ST820.DRL]
+   Generated File[ST820.LDP]
+   Generated File[ST820.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:15:21 On 2019/2/14
